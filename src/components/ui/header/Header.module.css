@@ -1,0 +1,10 @@
+.containerHeader {
+  padding: 20px 0px;
+  background-color: #222f3e;
+  color: #ffff;
+}
+
+.containerHeader h2 {
+  margin-left: 20px;
+  font-size: 1.1rem;
+}

@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "id": 1,
+      "titulo": "Tarea 1",
+      "descripcion": "Descripcion de la tarea 1",
+      "fechaLimite": "2025-10-10"
+    },
+    {
+      "id": 2,
+      "titulo": "Tarea 2",
+      "descripcion": "Descripcion de la tarea 2",
+      "fechaLimite": "2025-10-15"
+    },
+    {
+      "id": 3,
+      "titulo": "Tarea 3",
+      "descripcion": "Descripcion de la tarea 3",
+      "fechaLimite": "2025-10-11"
+    },
+    {
+      "id": 4,
+      "titulo": "Tarea 4",
+      "descripcion": "Descripcion de la tarea 4",
+      "fechaLimite": "2025-10-17"
+    },
+    {
+      "id": 5,
+      "titulo": "Tarea 5",
+      "descripcion": "Descripcion de la tarea 5",
+      "fechaLimite": "2025-10-19"
+    },
+    {
+      "id": 6,
+      "titulo": "Tarea 6",
+      "descripcion": "Descripcion de la tarea 6",
+      "fechaLimite": "2025-10-16"
+    },
+    {
+      "id": 7,
+      "titulo": "Tarea 7",
+      "descripcion": "Descripcion de la tarea 7",
+      "fechaLimite": "2025-10-15"
+    }
+  ]
+}

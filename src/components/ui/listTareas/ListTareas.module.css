@@ -1,0 +1,47 @@
+.containerPrincipalTareas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.containerSecundarioTareas {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 60%;
+}
+
+.containerSecundarioTareas h2 {
+   color: #222f3e;
+  font-size: 1.2rem;
+}
+
+.containerSecundarioTareas button {
+  padding: 10px 15px;
+  border: 1px solid transparent;
+  background-color: #222f3e;
+  border-radius: 20px;
+  color: #fff;
+  transition: background-color .3s ease-in-out;
+}
+
+.containerSecundarioTareas button:hover {
+  background-color: #c8d6e5;
+  color: #222f3e;
+  border: 1px solid #222f3e;
+  cursor: pointer;
+}
+
+.containerTareas {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem 3rem;
+  padding: 1rem;
+  width: 70%;
+  min-height: 70vh;
+  border-radius: 0.4rem;
+}
